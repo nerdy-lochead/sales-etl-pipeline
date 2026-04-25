@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Load data
-df = pd.read_csv('/Users/oluwapelumisanusi/Desktop/sales-etl-pipeline/data/sales_data.csv')
+df = pd.read_csv('yourfilepath/data/sales_data.csv')
 
 # Transform data
 df['total_price'] = df['quantity'] * df['price']
