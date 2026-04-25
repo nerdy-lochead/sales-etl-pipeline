@@ -10,7 +10,7 @@ df['order_date'] = pd.to_datetime(df['order_date'])
 
 # PostgreSQL connection
 username = 'postgres'
-password = 'Lochead_1704'
+password = 'yourpassword'
 host = 'localhost'
 port = '5432'
 database = 'sales_db'
