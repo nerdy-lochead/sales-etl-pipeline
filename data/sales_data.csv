@@ -1,0 +1,6 @@
+order_id,customer_name,product,quantity,price,order_date
+1,John Beya,Laptop,1,800,2024-01-10
+2,Joke Smith,Phone,2,500,2024-01-11
+3,Dare Ajayi,Tablet,1,300,2024-01-12
+4,Adeola Bello,Laptop,1,800,2024-01-13
+5,Tolu Aminu,Phone,3,500,2024-01-14
