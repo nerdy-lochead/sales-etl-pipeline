@@ -34,6 +34,7 @@ sales-etl-pipeline/
 ### 1. Clone the repository
 
 git clone https://github.com/nerdy-lochead/sales-etl-pipeline.git
+
 cd sales-etl-pipeline
 
 ### 2. Install dependencies
@@ -41,6 +42,7 @@ cd sales-etl-pipeline
 pip install -r requirements.txt
 
 ### 3. Set up PostgreSQL
+
 Create a database:
 
 CREATE DATABASE sales_db;
