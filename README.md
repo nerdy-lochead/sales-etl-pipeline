@@ -14,10 +14,10 @@ It simulates a real-world data engineering workflow by:
 ## Project Structure
 
 sales-etl-pipeline/
-├── data/
-├── scripts/
-├── README.md
-├── requirements.txt
+  ├── data/
+  ├── scripts/
+  ├── README.md
+  ├── requirements.txt
 
 ---
 
